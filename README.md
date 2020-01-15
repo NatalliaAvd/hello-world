@@ -1,2 +1,2 @@
 # hello-world
-repository for studing
+repository for studing Python for DQA
